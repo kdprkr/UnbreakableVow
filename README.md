@@ -1,6 +1,6 @@
 # UnbreakableVow
 
-This repository houses materials used to create the visualization for grade breakdowns on my various syllabi. <br/>
+This repository houses materials used to create visualizations for grade breakdowns on my various syllabi. <br/>
 
 ## Overview
 `BIO204_SP2020/` = contains syllabi for BIO204 sections 601 and 602 from Spring 2020 at FRCC <br/>
